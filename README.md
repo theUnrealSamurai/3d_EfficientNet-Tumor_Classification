@@ -1,4 +1,4 @@
-# 3d_EfficientNet-Tumor_Classification
+# 3d_EfficientNet-Tumor_Classification [PyTorch]
 solution for the kaggle rsna-miccai-brain-tumor-radiogenomic-classification
 
 The notebook uses a 3d EfficientNet-b1 model to train and classify the images for the glioma tumor. 
